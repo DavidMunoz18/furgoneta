@@ -1,0 +1,4 @@
+C:\Users\csi23-dmunnco\source\repos\furgoneta\obj\Debug\net6.0\furgoneta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\furgoneta\obj\Debug\net6.0\furgoneta.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\furgoneta\obj\Debug\net6.0\furgoneta.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\furgoneta\obj\Debug\net6.0\furgoneta.csproj.CoreCompileInputs.cache
